@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-virtual-network-peering/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([1bea164](https://github.com/CloudAstro/terraform-azurerm-virtual-network-peering/commit/1bea1643c8d419027954e25699eef7e504cff9a1))
+
 ## 1.0.0 (2025-05-05)
 
 
